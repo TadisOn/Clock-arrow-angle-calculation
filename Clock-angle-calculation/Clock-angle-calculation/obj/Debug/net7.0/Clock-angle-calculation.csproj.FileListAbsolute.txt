@@ -1,0 +1,15 @@
+C:\Users\tjutk\Documents\GitHub\Clock-arrow-angle-calculation\Clock-angle-calculation\Clock-angle-calculation\bin\Debug\net7.0\Clock-angle-calculation.exe
+C:\Users\tjutk\Documents\GitHub\Clock-arrow-angle-calculation\Clock-angle-calculation\Clock-angle-calculation\bin\Debug\net7.0\Clock-angle-calculation.deps.json
+C:\Users\tjutk\Documents\GitHub\Clock-arrow-angle-calculation\Clock-angle-calculation\Clock-angle-calculation\bin\Debug\net7.0\Clock-angle-calculation.runtimeconfig.json
+C:\Users\tjutk\Documents\GitHub\Clock-arrow-angle-calculation\Clock-angle-calculation\Clock-angle-calculation\bin\Debug\net7.0\Clock-angle-calculation.dll
+C:\Users\tjutk\Documents\GitHub\Clock-arrow-angle-calculation\Clock-angle-calculation\Clock-angle-calculation\bin\Debug\net7.0\Clock-angle-calculation.pdb
+C:\Users\tjutk\Documents\GitHub\Clock-arrow-angle-calculation\Clock-angle-calculation\Clock-angle-calculation\obj\Debug\net7.0\Clock-angle-calculation.csproj.AssemblyReference.cache
+C:\Users\tjutk\Documents\GitHub\Clock-arrow-angle-calculation\Clock-angle-calculation\Clock-angle-calculation\obj\Debug\net7.0\Clock-angle-calculation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tjutk\Documents\GitHub\Clock-arrow-angle-calculation\Clock-angle-calculation\Clock-angle-calculation\obj\Debug\net7.0\Clock-angle-calculation.AssemblyInfoInputs.cache
+C:\Users\tjutk\Documents\GitHub\Clock-arrow-angle-calculation\Clock-angle-calculation\Clock-angle-calculation\obj\Debug\net7.0\Clock-angle-calculation.AssemblyInfo.cs
+C:\Users\tjutk\Documents\GitHub\Clock-arrow-angle-calculation\Clock-angle-calculation\Clock-angle-calculation\obj\Debug\net7.0\Clock-angle-calculation.csproj.CoreCompileInputs.cache
+C:\Users\tjutk\Documents\GitHub\Clock-arrow-angle-calculation\Clock-angle-calculation\Clock-angle-calculation\obj\Debug\net7.0\Clock-angle-calculation.dll
+C:\Users\tjutk\Documents\GitHub\Clock-arrow-angle-calculation\Clock-angle-calculation\Clock-angle-calculation\obj\Debug\net7.0\refint\Clock-angle-calculation.dll
+C:\Users\tjutk\Documents\GitHub\Clock-arrow-angle-calculation\Clock-angle-calculation\Clock-angle-calculation\obj\Debug\net7.0\Clock-angle-calculation.pdb
+C:\Users\tjutk\Documents\GitHub\Clock-arrow-angle-calculation\Clock-angle-calculation\Clock-angle-calculation\obj\Debug\net7.0\Clock-angle-calculation.genruntimeconfig.cache
+C:\Users\tjutk\Documents\GitHub\Clock-arrow-angle-calculation\Clock-angle-calculation\Clock-angle-calculation\obj\Debug\net7.0\ref\Clock-angle-calculation.dll
